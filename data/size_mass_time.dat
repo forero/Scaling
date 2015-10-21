@@ -1,0 +1,9 @@
+#Size, Mass Range, Time Scale
+3.0E22 2.0E44 3.0E14 # Cluster
+3.0E20 2.0E42 1.0E13 # Galaxy
+1.0E11 2.0E30 3.0E7 # Solar System
+6.3E6 	5.0E24 8.6E4 # Earth
+1.0 1E2 1.0  # Human Body
+1.0E-5 1E-15 2.0E-4 # Cell http://book.bionumbers.org/how-big-is-an-e-coli-cell-and-what-is-its-mass/
+1E-8 1.0E-24 3.3E-7 # Processos http://www.alternatewars.com/BBOW/Computing/Computing_Power.htm
+5.0E-10 1.0E-27 1E-9# Atom (transition Time)
